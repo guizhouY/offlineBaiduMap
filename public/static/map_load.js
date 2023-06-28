@@ -1,7 +1,7 @@
 let bmapcfg = {
   'imgext'      : '.jpg',   //瓦片图的后缀 ------ 根据需要修改，一般是 .png .jpg
   'tiles_dir'   : 'tiles',       //普通瓦片图的地址，为空默认在 offlinemap/tiles/ 目录
-  'tiles_path': 'http://192.168.20.30:8080/',
+  'tiles_path': 'http://192.168.20.21:8082/',
   'tiles_hybrid': '',       //卫星瓦片图的地址，为空默认在 offlinemap/tiles_hybrid/ 目录
   'tiles_self'  : ''        //自定义图层的地址，为空默认在 offlinemap/tiles_self/ 目录
 };
